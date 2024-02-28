@@ -4,7 +4,7 @@ source "https://rubygems.org"
 
 # gem "rails"
 
-gem "rails", "= 6.1.7.5"
+gem "rails", "6.1.7.7"
 
 gem "redis", "~> 3.3"
 
